@@ -7,6 +7,8 @@
 #'     toc: true
 #' ---
 
+#' I have made changes to the file! 
+
 
 #' This lab works differently from the previous ones.  In this lab, you'll be working in pairs on a two-part assignment.  In the first part, you'll do a brief exploratory data analysis of the dataset used in Silberzahn, et al. (2018), “Many Analysts, One Data Set” (*Advances in Methods and Practices in Psychological Science*, <https://doi.org/10.1177/2515245917747646>).  In the second part, you and your partner will do a code review for another pair's EDA.  
 #' 
